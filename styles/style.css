@@ -6,7 +6,6 @@ body{
 }
 
 #container{
-    border:black solid 1px;
     height:250px;
     width:600px;
     margin:auto;
